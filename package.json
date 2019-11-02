@@ -1,0 +1,31 @@
+{
+  "name": "app3",
+  "version": "0.0.0",
+  "description": "Sample singlepage application",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/spstart"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "keywords": [
+    "singlepage.js",
+    "vue.js"
+  ],
+  "author": "Your Company",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "formidable": "^1.2.1",
+    "fs-extra": "^8.1.0",
+    "lru-cache": "^5.1.1",
+    "mime-types": "^2.1.24",
+    "mustache": "^3.0.1",
+    "nodemailer": "^6.3.0"
+  },
+  "devDependencies": {
+    "vue": "^2.6.10"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Singlepage.js Resume App",
+  "description": "Online resume built using Singlepage.js",
+  "repository": "https://github.com/pdabke/singlepage-js-app-resume.git",
+  "logo": "https://www.singlepagejs.com/images/app_logo.png",
+  "keywords": ["node", "vue", "singlepage"]
+}
